@@ -30,6 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/rikyrism"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/rikyrism" /></a><a href="https://ko-fi.com/ko-fi.com/rikyrism"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/rikyrism" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progsmatic&show_icons=true&locale=en&layout=compact" alt="progsmatic" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=progsmatic&show_icons=true&locale=en&layout=compact" alt="progsmatic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progsmatic&show_icons=true&locale=en" alt="progsmatic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progsmatic&" alt="progsmatic" /></p>
