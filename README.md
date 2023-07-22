@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/progsmatic/progsmatic/blob/main/banner-github.png)
 <h1 align="center">Hi 👋, I'm Ilham Riky Rismawan</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
