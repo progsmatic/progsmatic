@@ -33,8 +33,4 @@
 <br>
 <center>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=progsmatic&show_icons=true&locale=en&layout=compact" alt="progsmatic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progsmatic&show_icons=true&locale=en" alt="progsmatic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progsmatic&" alt="progsmatic" /></p>
 </center>
